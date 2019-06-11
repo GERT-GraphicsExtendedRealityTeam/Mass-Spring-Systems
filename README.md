@@ -1,3 +1,3 @@
 # Interactive Lab:
 
-[HookesLaw] (https://nadineab.github.io/Mass-Spring-Systems/HookesLaw).
+[Hooke's Law] (https://nadineab.github.io/Mass-Spring-Systems/HookesLaw).
