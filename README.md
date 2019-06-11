@@ -4,4 +4,4 @@
 
 - Spring Simulation: [Spring Simulation](https://nadineab.github.io/Spring-Simulation/index.html)
 
-- Cloth Simulation: [Cloth Simulation](https://nadineab.github.io/Cloth-Simulation/)
+- Cloth Simulation: [Cloth Simulation](https://nadineab.github.io/Cloth-Simulation/index.html)
